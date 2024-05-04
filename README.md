@@ -1,4 +1,8 @@
-### Hi there 👋
+### 
+
+![bannerq](https://github.com/asaaplow/asaaplow/assets/126209053/ec77c091-76fb-49ab-b8b9-d6bf361f591e)
+
+
 
 Hello! I am Alejandro Salazar, I am a passionate Computer Science student with a great interest in software development and technology.
 My GitHub repository shows some of my projects, ranging from simple web app applications to other much more complex applications or projects. 
