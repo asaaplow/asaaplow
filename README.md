@@ -5,7 +5,7 @@
 
 <h1> Hi! Im Alejandro Salazar </h1>
 
-![descarga](https://github.com/asaaplow/asaaplow/assets/126209053/8b57b465-2de1-44d3-bf96-216528650394)
+
 
 <p align="left"> I am a passionate Computer Science student with a great interest in software development and technology.
 My GitHub repository shows and share some of my projects and ideas, ranging from simple personal projects or things that i like to other much more complex applications or projects. 
@@ -50,9 +50,10 @@ are crucial for personal and professional growth. </p>
 </div>
 
 
-- Novatorem theme
+<br>
+<br>
 
-![spotify-github-profile](/img/novatorem.svg)
+
 <!--
 **asaaplow/asaaplow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
