@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> I am a passionate Computer Science student with a great interest in software development and technology.
+<p align="left"> I am a Computer Science student with a great interest in software development and technology.
 My GitHub repository shows and share some of my projects and ideas, ranging from simple personal projects or things that i like to other much more complex applications or projects. 
 I am always willing to collaborate with other developers and contribute to open source projects, as I believe that teamwork and knowledge sharing
 are crucial for personal and professional growth. </p>
